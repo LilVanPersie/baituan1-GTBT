@@ -1,0 +1,38 @@
+h2 {
+  font-size: larger;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(97, 11, 11);
+  text-align: center;
+  justify-content: center;
+}
+
+h3 {
+  text-align: justify;
+}
+
+p {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+ou {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+}
+
+.info {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+}
+
+tr {
+  text-align: center;
+}
+
+td {
+  text-align: left;
+}
+
+.contact {
+  -ms-text-align-last: auto;
+}
